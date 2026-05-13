@@ -5,7 +5,7 @@ class Inicio extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("INICIO")),
-      body: Center(child: Text("Bienvenido")),
+      body: Center(child: Text("Bienvenido a todos")),
     );
   }
 }
